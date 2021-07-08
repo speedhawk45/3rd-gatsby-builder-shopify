@@ -5,7 +5,7 @@ export default {
   ...base,
   colors: {
     text: '#557571',
-    background: '#eeeeee',
+    background: '#ffffff',
     primary: '#596e79',
     secondary: '#3b6978',
   },
