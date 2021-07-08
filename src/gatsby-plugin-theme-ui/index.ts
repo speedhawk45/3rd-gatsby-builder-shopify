@@ -4,10 +4,10 @@ export default {
   initialColorModeName: 'light',
   ...base,
   colors: {
-    text: '#557571',
+    text: '#000000',
     background: '#ffffff',
-    primary: '#000000',
-    secondary: '#f50a3d',
+    primary: '#f50a3d',
+    secondary: '#798a88',
   },
   styles: {
     ...base.styles,
