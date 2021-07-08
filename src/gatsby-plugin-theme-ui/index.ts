@@ -6,8 +6,8 @@ export default {
   colors: {
     text: '#557571',
     background: '#ffffff',
-    primary: '#596e79',
-    secondary: '#3b6978',
+    primary: '#000000',
+    secondary: '#f50a3d',
   },
   styles: {
     ...base.styles,
